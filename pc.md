@@ -1,9 +1,9 @@
 ---
 layout: content
-title: Committees
+title: Committee
 ---
 
-### Program Chairs
+## Program Committee
 
 - [Alexandre Rademaker](http://arademaker.github.com), IBM Research and FGV, Brazil
 - [Claudia Freitas](http://www.letras.puc-rio.br/pag_profs/professores_mariaclaudiafreitas.php), PUC-Rio, Brazil
@@ -12,8 +12,7 @@ title: Committees
 - [Hugo Oliveira](http://eden.dei.uc.pt/~hroliv/), Coimbra University, Portugal
 - [Valeria de Paiva](http://valeriadepaiva.org), Nuance Communications, USA
 
+## Organizational Committee
 
-
-
-
-
+- Bruno Lopes, PUC-Rio
+- Suemi Higuchi, CPDOC/FGV
