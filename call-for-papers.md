@@ -3,8 +3,9 @@ layout: content
 title: Call for Technical Paper Contributions
 ---
 
+<pre>
 Workshop on LOGS and ONTOLOGIES for NATURAL LANGUAGE (LogOnto 2014)
-http://empa.fgv.br/lonl-2014
+http://empa.fgv.br/logonto-2014/
 
 27 September, 2014 Rio de Janeiro, Brazil
 
@@ -58,4 +59,4 @@ Hugo Oliveira, Coimbra University, PT
 Francis Bond, Nanyang Technological University,Singapore 
 Claudia Freitas, PUC-Rio, BR
 Alexandre Rademaker, IBM and FGV, BR
-
+</pre>

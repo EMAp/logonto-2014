@@ -29,7 +29,7 @@ Specific topics include, but are not limited to:
 
 ## Workshop Chairs
 
-- Valeria de Paiva, Nuance Communications
+- [Valeria de Paiva](http://valeriadepaiva.org), Nuance Communications
 - [Alexandre Rademaker](http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad)
   (IBM Research and FGV/EMAp, Brazil)
 
