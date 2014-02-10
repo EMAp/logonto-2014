@@ -1,0 +1,7 @@
+safe: false
+pygments: true
+markdown: rdiscount
+redirects: false
+exclude: ["README.md"]
+baseurl: /logonto-2014/
+
