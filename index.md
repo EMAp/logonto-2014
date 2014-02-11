@@ -27,6 +27,11 @@ Specific topics include, but are not limited to:
 - formal approaches to unifying data-driven and declarative approaches
   to semantics
 
+## Submissions
+
+Papers should be submitted to
+[EasyChair](https://www.easychair.org/conferences/?conf=logonto2014).
+
 ## Workshop Chairs
 
 - [Valeria de Paiva](http://valeriadepaiva.org), Nuance Communications

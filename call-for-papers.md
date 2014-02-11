@@ -37,14 +37,14 @@ Specific topics include, but are not limited to:
 IMPORTANT DATES
 
 Paper submission deadline: May 22, 2014
-Author notification: June 1, 2014
+Author notification: June 30, 2014
 Electronic versions of papers due: July 15, 2014
-Workshop: Spetember 27, 2014
+Workshop: September 22, 2014
 
 SUBMISSIONS
 
 Please submit extended abstracts of  4--6 pages using EasyChair:
-https://www.easychair.org/conferences/?conf=???
+https://www.easychair.org/conferences/?conf=logonto2014
 
 ORGANIZERS
 
