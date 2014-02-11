@@ -15,4 +15,5 @@ title: Committee
 ## Organizational Committee
 
 - Bruno Lopes, PUC-Rio
+- Livy Maria Real Coelho, UFP
 - Suemi Higuchi, CPDOC/FGV
