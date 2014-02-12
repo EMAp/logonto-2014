@@ -13,6 +13,9 @@ combination between logical methods and statistical methods for
 acquiring and using ontologies for computational semantics, especially
 for languages less endowed with lexical resources.
 
+The workshop is associated with
+[FOIS 2014](http://fois2014.inf.ufes.br).
+
 ## Conference Topics
 
 Specific topics include, but are not limited to:
