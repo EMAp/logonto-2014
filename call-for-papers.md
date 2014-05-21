@@ -4,7 +4,7 @@ title: Call for Technical Paper Contributions
 ---
 
 <pre>
-Workshop on LOGS and ONTOLOGIES for NATURAL LANGUAGE (LogOnto 2014)
+Workshop on LOGICS and ONTOLOGIES for NATURAL LANGUAGE (LogOnto 2014)
 http://empa.fgv.br/logonto-2014/
 
 27 September, 2014 Rio de Janeiro, Brazil
