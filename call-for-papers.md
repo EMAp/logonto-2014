@@ -9,7 +9,7 @@ http://empa.fgv.br/logonto-2014/
 
 27 September, 2014 Rio de Janeiro, Brazil
 
-Paper submission deadline: May 22, 2014
+Paper submission deadline: May 22, 2014 (extended to May 30)
 
 AIMS AND SCOPE
 
@@ -36,7 +36,7 @@ Specific topics include, but are not limited to:
 
 IMPORTANT DATES
 
-Paper submission deadline: May 22, 2014
+Paper submission deadline: May 22, 2014 (extended to May 30)
 Author notification: June 30, 2014
 Electronic versions of papers due: July 15, 2014
 Workshop: September 22, 2014
