@@ -35,7 +35,7 @@ fieldset
 
 p
 {
-        line-height:1.7em;
+        line-height:1.3em;
         margin:8px 0;
 }
 
@@ -1345,12 +1345,6 @@ td.hits
 {
         vertical-align:top;
         text-align:center
-}
-
-td p
-{
-        margin:0;
-        line-height:1.3em
 }
 
 .filter
