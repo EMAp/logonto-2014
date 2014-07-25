@@ -22,7 +22,7 @@ title: Tentative Program
 <tr>
 <td>09:10</td>
 <td>10:00</td>
-<td><b>Invited Talk</b>: <a href="invited-speakers.html">Ontologies for NLP, NLP for ontologies</a> (Renata Vieira, PUC-RS, Brazil)</td>
+<td><b>Invited Talk</b>: <a href="invited-speakers.html">Ontologies for NLP, NLP for ontologies</a> (Renata Vieira, PhD, PUC-RS, Brazil)</td>
 </tr>
 </tbody>
 <tbody>
