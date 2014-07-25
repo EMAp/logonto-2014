@@ -2,6 +2,6 @@ safe: false
 pygments: true
 markdown: rdiscount
 redirects: false
-exclude: ["README.md"]
+exclude: ["README.md","*.org"]
 baseurl: /logonto-2014/
 
