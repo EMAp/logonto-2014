@@ -3,7 +3,7 @@ layout: content
 title: Tentative Program
 ---
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" class="content" frame="hsides">
 <thead>
 <tr>
 <th scope="col">start</th>
