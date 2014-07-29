@@ -12,9 +12,10 @@ title: Committee
 - [Gerard de Melo](http://www.demelo.org/gerard/), Tsinghua University, China
 - [Hugo Oliveira](http://eden.dei.uc.pt/~hroliv/), Coimbra University, Portugal
 - [Valeria de Paiva](http://valeriadepaiva.org), Nuance Communications, USA
+- [Livy Real](http://livyreal.com), Universidade Federal do Paraná, Brazil
+- Dário Augusto Borges Oliveira, CPDOC/FGV, Brazil
+- Bruno Lopes, PUC-Rio
 
 ## Organizational Committee
 
-- Bruno Lopes, PUC-Rio
-- Livy Maria Real Coelho, UFP
 - Suemi Higuchi, CPDOC/FGV
