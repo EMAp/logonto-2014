@@ -15,18 +15,17 @@ has been an essencial part of my work.
 
 ### Short bio
 
-[Renata Vieira](http://www.inf.pucrs.br/~rvieira/) possui título de
-PhD em Informática pela University of Edinburgh (1998). É professora
-da PUC-RS onde atua em pesquisa e ensino na graduação e pós-graduação
-na área de inteligência computacional, com ênfase em processamento de
-linguagem natural, representação do conhecimento, ontologias, agentes
-e web semântica. Possui experiência em coordenação de projetos, é
-membro de comitês científicos das principais conferências
-internacionais da área de lingüística computacional e agentes
-inteligentes. Participa ativamente no desenvolvimento da área de
-processamento de linguagem natural no país. Em 2007 atuou com
-Pesquisador Visitante Sênior CAPES-Fulbright na Universidade do Texas
-em Austin.
+[Renata Vieira](http://www.inf.pucrs.br/~rvieira/) works in the area
+of artificial intelligence, knowledge representation, ontologies,
+semantic web and natural processing, with special interests in the
+Portuguese language, but also considering multi- lingual questions. In
+this area she has a leading role in Brazil, for she worked in the
+creation of a special interest group for the area in the Brazilian
+Computing Society. She has been a member of the Executive Committe of
+the International Association for Computational Linguistcs, the main
+international scientific organization in this subject. Her publication
+records are among the top ones in the country for this area.
+
 
 ## Adam Pease: Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics
 
