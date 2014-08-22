@@ -50,3 +50,21 @@ research program and his products have been downloaded by thousands of
 people around the world.  He is the author of the new book "Ontology:
 A Practical Guide".
 
+
+## Vinay Chaudhri: Challenges in Commercializing Expert Knowledge Authoring
+
+Formal knowledge representation is a powerful tool for better
+understanding and communication of knowledge.  Natural language
+interfaces to formal knowledge bases enable users unfamiliar with the
+intricacies of the representation to access the encoded knowledge.
+AURA is a software system aimed at domain experts to ease knowledge
+authoring. To support access to this knowledge, it also supports a
+natural language front end for posing questions. With the goal of
+commercializing this technology, we built an electronic textbook
+application aimed at students studying from a biology textbook.  I
+will discuss the challenges we have faced in deploying this technology
+in a commercially viable manner and some of the open problems that
+still need to be solved.
+
+### Short bio
+

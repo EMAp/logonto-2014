@@ -4,35 +4,34 @@
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 09:00 | 09:10 | *Workshop Opening*                                                                                                                                             |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:10 | 10:00 | *Invited Talk*: Ontologies for NLP, NLP for ontologies (Renata Vieira, PUC-RS, Brazil)                                                                         |
+| 09:10 | 10:00 | *Invited Talk*: [[invited-speakers.html][Ontologies for NLP, NLP for ontologies]] (Renata Vieira, PUC-RS, Brazil)                                                                         |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 10:00 | 11:00 | *Session 1*: chair Valeria de Paiva                                                                                                                            |
 | 10:00 | 10:25 | Complex Categories in Ontologies (Alexandra Arapinis and Laure Vieu)                                                                                           |
-| 10:25 | 10:50 | Review of Págico: Evaluating Wikipedia-based information retrieval in Portuguese (Cristina Mota, Alberto Simões, Claudia Freitas, Luis Costa and Diana Santos) |
+| 10:25 | 10:50 | Nominalisations: a lexical semantic proposal (Livy Real)                                                                                                       |
 | 10:50 | 11:00 | Discussion                                                                                                                                                     |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:00 | 11:30 | *Coffee Break*                                                                                                                                                 |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 11:30 | 13:00 | *Session 2*: chair Valeria de Paiva                                                                                                                            |
-| 11:30 | 11:55 | Portuguese Relation Extraction in the Organization Domain (Sandra Collovini, Lucas Pugens, Marcelo de Bairros Pereira Filho and Renata Vieira)                 |
-| 11:55 | 12:20 | Improving Ontology Service-Driven Entity Disambiguation (Patrice Seyed, Zach Fry and Deborah McGuinness)                                                       |
-| 12:20 | 12:45 | Nominalisations: a lexical semantic proposal (Livy Real)                                                                                                       |
+| 11:30 | 11:55 | A Meta-Level Ontology for Specialized Communication (Dagmar Gromann)                                                                                           |
+| 11:55 | 12:20 | Review of Págico: Evaluating Wikipedia-based information retrieval in Portuguese (Cristina Mota, Alberto Simões, Claudia Freitas, Luis Costa and Diana Santos) |
+| 12:20 | 12:45 | Portuguese Relation Extraction in the Organization Domain (Sandra Collovini, Lucas Pugens, Marcelo de Bairros Pereira Filho and Renata Vieira)                 |
 | 12:45 | 13:00 | Discussion                                                                                                                                                     |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 13:00 | 14:00 | *Lunch Break*                                                                                                                                                  |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:00 | 15:30 | *Session 3*: chair Alexandre Rademaker                                                                                                                         |
-| 14:00 | 14:50 | *Invited Talk*: Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics (Adam Pease, Articulate Software, EUA)                |
-| 14:50 | 15:15 | A Meta-Level Ontology for Specialized Communication (Dagmar Gromann)                                                                                           |
-| 15:15 | 15:30 | Discussion                                                                                                                                                     |
+| 14:00 | 14:50 | *Invited Talk*: [[invited-speakers.html][Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics]] (Adam Pease, Articulate Software, EUA)                |
+| 14:50 | 15:15 | Competing Ontologies and Verbal Disputes (Jakub Mácha)                                                                                                         |
+| 15:15 | 15:40 | Discussion                                                                                                                                                     |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 15:30 | 16:00 | *Coffee Break*                                                                                                                                                 |
+| 15:40 | 16:00 | *Coffee Break*                                                                                                                                                 |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 16:00 | 17:00 | *Session 4*: chair Alexandre Rademaker                                                                                                                         |
-| 16:00 | 16:25 | Competing Ontologies and Verbal Disputes (Jakub Mácha)                                                                                                         |
-| 16:25 | 16:50 | Modelling Geometric Objects with ISO 15926: a computer aided approach (Bruno Lopes and Geiza Silva)                                                            |
-| 16:50 | 17:00 | Discussion                                                                                                                                                     |
+| 16:00 | 17:00 | *Invited Talk*: [[invited-speakers.html][Challenges in Commercializing Expert Knowledge Authoring]] (Vinay Chaudhri, SRI, EUA)                                                            |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 17:00 | 17:40 | *Closing Session*                                                                                                                                              |
-| 17:00 | 17:25 | The SUMO Ontology and default physical measurements (Francesca Quattri, Adam Pease and John McCrae)                                                            |
+| 17:00 | 17:50 | *Closing Session*                                                                                                                                              |
+| 17:00 | 17:25 | Modelling Geometric Objects with ISO 15926: a computer aided approach (Bruno Lopes and Geiza Silva)                                                            |
+| 17:25 | 17:50 | The SUMO Ontology and default physical measurements (Francesca Quattri, Adam Pease and John McCrae)                                                            |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
