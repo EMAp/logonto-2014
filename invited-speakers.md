@@ -68,3 +68,22 @@ still need to be solved.
 
 ### Short bio
 
+Dr. Vinay K. Chaudhri is a program director in the Artificial
+Intelligence (AI) Center at SRI International. His research focuses on
+the science and engineering of large knowledge base systems and spans
+knowledge representation and reasoning, question answering, knowledge
+acquisition, and innovative applications. His most recent work has
+been on creating an intelligent textbook in biology that answers a
+student's questions and leads to significant learning gains. He has
+co-edited a volume on the Theory and Application of conceptual
+modeling, and two special issues of AI Magazine - one on Question
+Answering Systems, and another on Application of AI to Contemporary
+and Emerging Education Challenges. He has taught a course on Knowledge
+Representation and Reasoning at Stanford University.
+
+He holds a Ph.D. in Computer Science from University of Toronto where
+he was a Connaught Scholar and a Fellow of Massey College. He also
+holds a Masters in Industrial and Management Engineering from Indian
+Institute of Technology Kanpur, and a Bachelor's degree in Mechanical
+Engineering from National Institute of Technology, Kurukshetra . He is
+a senior member of AAAI.
