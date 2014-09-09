@@ -147,7 +147,7 @@ title: Tentative Program
     <tr>
       <td>17:25</td>
       <td>17:50</td>
-      <td>The SUMO Ontology and default physical measurements (Francesca Quattri, Adam Pease and John McCrae)</td>
+      <td>Final Discussion</td>
     </tr>
   </tbody>
 </table>

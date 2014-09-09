@@ -22,7 +22,7 @@
 | 13:00 | 14:00 | *Lunch Break*                                                                                                                                                  |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:00 | 15:30 | *Session 3*: chair Alexandre Rademaker                                                                                                                         |
-| 14:00 | 14:50 | *Invited Talk*: [[invited-speakers.html][Kelsenian Jurisprudence, legal ontologies and intuitionistic logic]] (Edward Hermann Haeusler, PUC-Rio, Brazil)            |
+| 14:00 | 14:50 | *Invited Talk*: [[invited-speakers.html][Kelsenian Jurisprudence, legal ontologies and intuitionistic logic]] (Edward Hermann Haeusler, PUC-Rio, Brazil)                                  |
 | 14:50 | 15:15 | Competing Ontologies and Verbal Disputes (Jakub Mácha)                                                                                                         |
 | 15:15 | 15:40 | Discussion                                                                                                                                                     |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -33,5 +33,5 @@
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 17:00 | 17:50 | *Closing Session*                                                                                                                                              |
 | 17:00 | 17:25 | Modelling Geometric Objects with ISO 15926: a computer aided approach (Bruno Lopes and Geiza Silva)                                                            |
-| 17:25 | 17:50 | The SUMO Ontology and default physical measurements (Francesca Quattri, Adam Pease and John McCrae)                                                            |
+| 17:25 | 17:50 | Final discussion                                                                                                                                               |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
