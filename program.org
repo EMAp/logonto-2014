@@ -22,7 +22,7 @@
 | 13:00 | 14:00 | *Lunch Break*                                                                                                                                                  |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 14:00 | 15:30 | *Session 3*: chair Alexandre Rademaker                                                                                                                         |
-| 14:00 | 14:50 | *Invited Talk*: [[invited-speakers.html][Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics]] (Adam Pease, Articulate Software, EUA)                |
+| 14:00 | 14:50 | *Invited Talk*: [[invited-speakers.html][Kelsenian Jurisprudence, legal ontologies and intuitionistic logic]] (Edward Hermann Haeusler, PUC-Rio, Brazil)            |
 | 14:50 | 15:15 | Competing Ontologies and Verbal Disputes (Jakub Mácha)                                                                                                         |
 | 15:15 | 15:40 | Discussion                                                                                                                                                     |
 |-------+-------+----------------------------------------------------------------------------------------------------------------------------------------------------------------|

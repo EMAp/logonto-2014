@@ -27,29 +27,28 @@ international scientific organization in this subject. Her publication
 records are among the top ones in the country for this area.
 
 
-## Adam Pease: Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics
+## Edward Hermann Haeusler: Kelsenian Jurisprudence, legal ontologies and intuitionistic logic
 
-This talk presents an overview of formal ontology, and how the
-[Suggested Upper Merged Ontology](http://www.ontologyportal.org)
-(SUMO) has been used in linguistic applications. Classes of
-ontology-based applications are introduced. Issues of the capabilities
-and tradeoffs in first order logic inference are explored.  The SUMO
-is also described in detail, along with its mappings to the WordNet
-lexicon.
+Description Logic has been frequently used in representing
+knowledge. Sometimes we use the term "ontology" for denoting a
+specific domain knowledge representation. When representing legal
+knowledge a jurisprudence (theory of law) must be used as a basis for
+legal ontologies. In this talk we discuss how Kelsenian jurisprudence,
+apparently the most adequate jurisprudence choice for (practical)
+knowledge representation, asks for an intuitionistic logical basis for
+legal ontologies construction. We show how the use of an
+intuitionistic description logic can be successfully used in
+representing legal ontologies circumventing apparent conflicts in
+law. A case of conflict of laws in space in formally detailed and
+solved using our approach.
 
 ### Short bio
 
-[Adam Pease](http://www.adampease.org/professional/) has led research
-in ontology, linguistics, and formal inference, including development
-of the Suggested Upper Merged Ontology (SUMO), the Controlled English
-to Logic Translation (CELT) system, the Core Plan Representation
-(CPR), and the Sigma knowledge engineering environment. Sharing
-research under open licenses, in order to achieve the widest possible
-dissemination and technology transfer, has been a core element of his
-research program and his products have been downloaded by thousands of
-people around the world.  He is the author of the new book "Ontology:
-A Practical Guide".
-
+[Hermann](http://www.tecmf.inf.puc-rio.br/EdwardHermann) is Associate
+Professor of Informatics at Pontifícia Universidade Católica do Rio de
+Janeiro (PUC-Rio). He received his D.Sc. in Informatics from
+PUC-Rio. His recent works are in Logic and Proof Theory, with
+applications to Computer Science.
 
 ## Vinay Chaudhri: Challenges in Commercializing Expert Knowledge Authoring
 

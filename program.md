@@ -99,7 +99,7 @@ title: Tentative Program
     <tr>
       <td>14:00</td>
       <td>14:50</td>
-      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Formal Ontology and the use of the Suggested Upper Merged Ontology (SUMO) in Linguistics</a> (Adam Pease, Articulate Software, EUA)</td>
+      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Kelsenian Jurisprudence, legal ontologies and intuitionistic logic</a> (Edward Hermann Haeusler, PUC-Rio, Brazil)</td>
     </tr>
     
     <tr>
