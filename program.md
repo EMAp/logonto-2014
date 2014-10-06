@@ -35,7 +35,8 @@ title: Tentative Program
     <tr>
       <td>10:00</td>
       <td>10:25</td>
-      <td>Complex Categories in Ontologies (Alexandra Arapinis and Laure Vieu)</td>
+      <td>Complex Categories in Ontologies
+	  (Alexandra Arapinis and Laure Vieu - <a href="slides/laure.pdf">slides</a>)</td>
     </tr>
     <tr>
       <td>10:25</td>
