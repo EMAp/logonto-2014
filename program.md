@@ -15,14 +15,15 @@ title: Tentative Program
     <tr>
       <td>09:00</td>
       <td>09:10</td>
-      <td><b>Workshop Opening</b></td>
+      <td><b>Workshop Opening</b> (<a href="slides/opening.pdf">slides</a>)</td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <td>09:10</td>
       <td>10:00</td>
-      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Ontologies for NLP, NLP for ontologies</a> (Renata Vieira, PUC-RS, Brazil)</td>
+      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Ontologies for NLP, NLP for ontologies</a>
+	    (Renata Vieira, PUC-RS, Brazil), chair Valeria de Paiva (<a href="slides/renata.pdf">slides</a>)</td>
     </tr>
   </tbody>
   <tbody>
@@ -39,9 +40,8 @@ title: Tentative Program
     <tr>
       <td>10:25</td>
       <td>10:50</td>
-      <td>Nominalisations: a lexical semantic proposal (Livy Real)</td>
+      <td>Nominalisations: a lexical semantic proposal (Livy Real - <a href="slides/livy.pdf">slides</a>)</td>
     </tr>
-    
     <tr>
       <td>10:50</td>
       <td>11:00</td>
@@ -64,17 +64,20 @@ title: Tentative Program
     <tr>
       <td>11:30</td>
       <td>11:55</td>
-      <td>A Meta-Level Ontology for Specialized Communication (Dagmar Gromann)</td>
+      <td>A Meta-Level Ontology for Specialized Communication
+	      (Dagmar Gromann - <a href="slides/dagmar.pdf">slides</a>)</td>
     </tr>
     <tr>
       <td>11:55</td>
       <td>12:20</td>
-      <td>Review of Págico: Evaluating Wikipedia-based information retrieval in Portuguese (Cristina Mota, Alberto Simões, Claudia Freitas, Luis Costa and Diana Santos)</td>
+      <td>Review of Págico: Evaluating Wikipedia-based information retrieval in Portuguese (Cristina Mota,
+	      Alberto Simões, Claudia Freitas, Luis Costa and Diana Santos - <a href="slides/claudia.pdf">slides</a>)</td>
     </tr>
     <tr>
       <td>12:20</td>
       <td>12:45</td>
-      <td>Portuguese Relation Extraction in the Organization Domain (Sandra Collovini, Lucas Pugens, Marcelo de Bairros Pereira Filho and Renata Vieira)</td>
+      <td>Portuguese Relation Extraction in the Organization Domain (Sandra Collovini, Lucas Pugens,
+	      Marcelo de Bairros Pereira Filho and Renata Vieira - <a href="slides/renata2.pdf">slides</a>)</td>
     </tr>
     <tr>
       <td>12:45</td>
@@ -95,19 +98,18 @@ title: Tentative Program
       <td>15:30</td>
       <td><b>Session 3</b>: chair Alexandre Rademaker</td>
     </tr>
-    
     <tr>
       <td>14:00</td>
       <td>14:50</td>
-      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Kelsenian Jurisprudence, legal ontologies and intuitionistic logic</a> (Edward Hermann Haeusler, PUC-Rio, Brazil)</td>
+      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Kelsenian Jurisprudence, legal ontologies
+	   and intuitionistic logic</a> (Edward Hermann Haeusler, PUC-Rio, Brazi), chair Alexandre Rademaker
+	   (<a href="slides/hermann.pdf">slides</a>)</td>
     </tr>
-    
     <tr>
       <td>14:50</td>
       <td>15:15</td>
-      <td>Competing Ontologies and Verbal Disputes (Jakub Mácha)</td>
+      <td>Competing Ontologies and Verbal Disputes (Jakub Mácha, <a href="slides/jakub.pdf">slides</a>)</td>
     </tr>
-    
     <tr>
       <td>15:15</td>
       <td>15:40</td>
@@ -130,7 +132,9 @@ title: Tentative Program
     <tr>
       <td>16:00</td>
       <td>17:00</td>
-      <td><b>Invited Talk</b>: <a href="invited-speakers.html">Challenges in Commercializing Expert Knowledge Authoring</a> (Vinay Chaudhri, SRI, EUA)</td>
+      <td><b>Invited Talk</b>: <a href="invited-speakers.html">
+	  Challenges in Commercializing Expert Knowledge Authoring</a> (Vinay Chaudhri, SRI, EUA),
+	  chair Alexandre Rademaker (<a href="slides/vinay.pdf">slides</a>)</td>
     </tr>
   </tbody>
   <tbody>
@@ -142,7 +146,8 @@ title: Tentative Program
     <tr>
       <td>17:00</td>
       <td>17:25</td>
-      <td>Modelling Geometric Objects with ISO 15926: a computer aided approach (Bruno Lopes and Geiza Silva)</td>
+      <td>Modelling Geometric Objects with ISO 15926: a computer aided approach
+	      (Bruno Lopes and Geiza Silva - <a href="slides/bruno.pdf">slides</a>)</td>
     </tr>
     <tr>
       <td>17:25</td>
