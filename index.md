@@ -44,10 +44,10 @@ Papers should be submitted to
 ## OpenWordnet-PT
 
 The [OpenWN-PT site](http://logics.emap.fgv.br/wn/) is now open for
-easy online consultation, as discussed in the
+easy online consultation, as discussed at the
 workshop. ([downloading](http://github.com/arademaker/openWordnet-PT)
 has been available since 2010) We hope that linguists and computer
-science interested in lexical resources will help us improve the
+scientists interested in lexical resources will help us improve the
 resource. This is the goal of the boxes for comments below each entry:
 don't be shy, complain of wrong meanings, ask us to add new ones
 and/or suggest new functionality. We will do the best we can, no
