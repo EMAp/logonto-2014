@@ -38,14 +38,13 @@ Papers should be submitted to
 ## Workshop Chairs
 
 - [Valeria de Paiva](http://valeriadepaiva.org) (Nuance Communications, CA, USA)
-- [Alexandre Rademaker](http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad)
-  (IBM Research and FGV/EMAp, RJ, Brazil)
+- Alexandre Rademaker ([IBM Research]((http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad)) and [FGV/EMAp](http://emap.fgv.br/people/alexandre.rademaker.html), RJ, Brazil)
 
 ## OpenWordnet-PT
 
-The [OpenWN-PT site](http://logics.emap.fgv.br/wn/) is now open for
-easy online consultation, as discussed at the
-workshop. ([downloading](http://github.com/arademaker/openWordnet-PT)
+The [OpenWN-PT site](http://wnpt.brlcloud.com/wn) is now open for easy
+online consultation, as discussed at the
+workshop. ([downloading](http://github.com/own-pt/openWordnet-PT)
 has been available since 2010) We hope that linguists and computer
 scientists interested in lexical resources will help us improve the
 resource. This is the goal of the boxes for comments below each entry:
