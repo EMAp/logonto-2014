@@ -38,7 +38,7 @@ Papers should be submitted to
 ## Workshop Chairs
 
 - [Valeria de Paiva](http://valeriadepaiva.org) (Nuance Communications, CA, USA)
-- Alexandre Rademaker ([IBM Research]((http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad)) and [FGV/EMAp](http://emap.fgv.br/people/alexandre.rademaker.html), RJ, Brazil)
+- Alexandre Rademaker ([IBM Research](http://researcher.watson.ibm.com/researcher/view.php?person=br-alexrad) and [FGV/EMAp](http://emap.fgv.br/people/alexandre.rademaker.html), RJ, Brazil)
 
 ## OpenWordnet-PT
 
